@@ -1,0 +1,16 @@
+.options {
+  display: flex;
+  gap: 10px;
+  padding: 10px 0;
+}
+button {
+  margin-right: 3px;
+  min-height: 30px;
+  border: 2px solid #000;
+  background-color: #959090;
+  color: #000;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: background-color 0.3s, color 0.3s;
+}
